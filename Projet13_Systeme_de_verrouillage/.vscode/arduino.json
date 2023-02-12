@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "programmer": "arduino:avrispmkii",
+    "sketch": "Projet13_Systeme_de_verrouillage.ino"
+}
